@@ -1,0 +1,14 @@
+  public static void main(String[] args) {
+System.out.println(isname(20,20));
+    }
+    public static  boolean isname(int a, int b){
+        boolean same;
+        if (a == b){
+            same = true;
+        }
+        else {
+            same = false;
+        }
+        return same;
+    }
+}
