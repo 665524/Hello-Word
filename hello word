@@ -1,15 +1,6 @@
-  public static void main(String[] args) {
-System.out.println(isname(20,20));
-    }
-    public static  boolean isname(int a, int b){
-        boolean same;
-        if (a == b){
-            same = true;
-        }
-        else {
-            same = false;
-        }
-        return same;
+public class HelloWord {
+    public static void main(String[] args) {
+        System.out.println("Hello Word!");
     }
 }
 第一个项目的开始，初次接触GitHub，记住这个时刻往后这个账号会出现更多的优秀的项目
